@@ -9,4 +9,3 @@ There is also a 'block.php' script included with can be integrated in CSF FIrewa
 Features
 - Google Maps with Blocked countries
 - Block.php script for CSF/iptables integration
-- 
